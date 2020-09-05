@@ -67,3 +67,4 @@ Target: `/<*>.md`
 Source: `</^[^.]+$|\.(?!(css|gif|ico|jpg|js|png|txt|svg|woff|ttf|map|json)$)([^.]+$)/>`
 Target: `/index.html`
 
+# MY_
